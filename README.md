@@ -28,6 +28,11 @@ Through lectures, field trips, and hands-on making, students will explore and re
 - SD Cards
 - Mouses 
 - Keyboards 
+- Pen and pencil
+- Note pads 
+- Cards
+- Blocks 
+- Chips 
 
 ### Research trips
 
@@ -57,24 +62,7 @@ Teachers
 
 ### Supporters
 
-<<<<<<< HEAD
 - The Knight Foundation
 - Detroit Community Technology Project 
 - MOCAD
-- The Room Project 
-=======
-# Curriculum
-[Folder Poetry](https://github.com/melaniehoff/folderpoetry)
->>>>>>> c88971e30f051a7aeba59d64000048d95899137b
-
-
-### Participation
-
-Participant's guides 
-
-<<<<<<< HEAD
-### Media
- 
-=======
-# Open Call
->>>>>>> c88971e30f051a7aeba59d64000048d95899137b
+- The Room Project  
