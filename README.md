@@ -55,6 +55,7 @@ Teachers
 - Colin Wong 
 - Ron Watters 
 - Carlos Garcia 
+- Melanie Hoff
 
 ### Partners 
 
