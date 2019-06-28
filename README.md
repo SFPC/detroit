@@ -52,7 +52,7 @@ Teachers
 - American Artist 
 - Ann Haeyoung
 - Nabil Hassein 
-- Colin Wong 
+- Colin Wang 
 - Ron Watters 
 - Carlos Garcia 
 - Melanie Hoff
