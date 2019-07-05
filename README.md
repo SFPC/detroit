@@ -19,8 +19,8 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 ### Curriculum
 
-- Computational poetry activity 
-- [Folder Poetry Club](https://github.com/melaniehoff/folderpoetry)
+- We led two code poetry workshops at the The Room Project and the Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
+- [Folder Poetry Club](https://github.com/melaniehoff/folderpoetry) was a workshop taught by Melanie Hoff, co-organized by the School for Poetic Computation and Detroit Community Technology Project. In tandom with the workshop, Neta Bomani and Taeyoon Choi created a zine.
 
 ### Technology and class materials 
 
@@ -54,7 +54,6 @@ Teachers
 - Nabil Hassein 
 - Colin Wang 
 - Ron Watters 
-- Carlos Garcia 
 - Melanie Hoff
 
 ### Partners 
