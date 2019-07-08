@@ -7,7 +7,7 @@ August 19 - 25, 2019 at Talking Dolls, Detroit
 
 The [open call](http://sfpc.io/detroit) is live until July 1, 2019.
 
-### Theme: Unconvering Technology 
+### Theme: Uncovering Technology 
 
 To create a more meaningful relationship with technology, we will uncover technology’s glossy surfaces and look into its logic and beauty. SFPC’s Poetic Computation:Detroit will focus on the theme of Uncovering Technology. Together, we will learn the fundamentals of coding and critical theory in order to trace the contours of technology’s backbone. 
 
