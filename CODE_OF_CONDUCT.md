@@ -43,9 +43,30 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
 
-## 5. Weapons Policy
+## 5. In Class Behavior, What SFPC has learned over the years
 
-No weapons will be allowed at SFPC's summer program in Detroit events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+Want/ Don’t want 
+
+I want to make a lot of stuff - I also want people to be considerate of space
+  * Cleaning up your own mess! 
+  * Welcoming and shared space 
+  * Work openly
+  * What you put into this you will get out of it
+I want support
+  * “Yes, and” mentality - encouraging … stay away from “No”
+  * value asking questions, no bad or dumb questions
+  * challenging but not criticizing unhelpfully 
+  * defaulting to assumption that people are trying to be helpful, assume good intentions 
+I want a safe space (abilities, backgrounds not questioned, speak my mind, honest). 
+  * No sexism, racism, ableism
+  * Physically safe
+  * Appreciating diversity - ESL (English as Second Language) 
+I want to learn
+  * Respecting teachers / respect for everybody’s different path 
+  * not afraid of step out of comfort zone, and lost. try something new
+  * not afraid to share (skills & ideas) 
+  * Don’t want “one upping” no uninvited interruption, be aware of other people in the conversation  
+  * Step forward, lean back (speaking up and listening are skills which you can improve.)
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -59,14 +80,13 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. info@sfpc.io.
 
-
-
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify School For Poetic Computation with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
+Please contact us at info@sfpc.io.
 
 
 ## 9. Scope
