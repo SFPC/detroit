@@ -52,15 +52,18 @@ I want to make a lot of stuff - I also want people to be considerate of space
   * Welcoming and shared space 
   * Work openly
   * What you put into this you will get out of it
+
 I want support
   * “Yes, and” mentality - encouraging … stay away from “No”
   * value asking questions, no bad or dumb questions
   * challenging but not criticizing unhelpfully 
   * defaulting to assumption that people are trying to be helpful, assume good intentions 
+
 I want a safe space (abilities, backgrounds not questioned, speak my mind, honest). 
   * No sexism, racism, ableism
   * Physically safe
   * Appreciating diversity - ESL (English as Second Language) 
+
 I want to learn
   * Respecting teachers / respect for everybody’s different path 
   * not afraid of step out of comfort zone, and lost. try something new
