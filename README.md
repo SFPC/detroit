@@ -50,7 +50,7 @@ Co- organizers
 Teachers 
 
 - American Artist 
-- Ann Haeyoung
+- [Ann Haeyoung](https://github.com/a-tbd/sfpc_detroit_2019)
 - Nabil Hassein 
 - Colin Wang 
 - Ron Watters 
