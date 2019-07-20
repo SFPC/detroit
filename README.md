@@ -19,6 +19,13 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 ### Curriculum
 
+*August 2019*
+- [Making Sense](https://docs.google.com/document/d/1yhtziL1SciZRToZQ-hiuAiY7Fn-hAGo_YMhdUF-Itnk/edit) taught by Colin Wang
+- [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
+- [The Materiality and Ethnoclass Character of Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
+- [Peer-to-Peer-Poetry: Invisible Cities](https://github.com/melaniehoff/Peer-to-Peer-Poetry)
+
+*June 2019*
 - We led two code poetry workshops at the The Room Project and the Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
 - [Folder Poetry Club](https://github.com/melaniehoff/folderpoetry) was a workshop taught by Melanie Hoff, co-organized by the School for Poetic Computation and Detroit Community Technology Project. In tandom with the workshop, Neta Bomani and Taeyoon Choi created a zine.
 
