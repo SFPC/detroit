@@ -20,11 +20,12 @@ Through lectures, field trips, and hands-on making, students will explore and re
 ### Curriculum
 
 _August 2019_
-- [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019)
+- [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
 - [Making Sense](https://docs.google.com/document/d/1yhtziL1SciZRToZQ-hiuAiY7Fn-hAGo_YMhdUF-Itnk/edit) taught by Colin Wang
 - [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
 - [The Materiality and Ethnoclass Character of Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
 - [Peer-to-Peer-Poetry: Invisible Cities](https://github.com/melaniehoff/Peer-to-Peer-Poetry) taught by Melanie Hoff
+- [DIY Network Protocols and Communication Infrastructures](https://github.com/tchoi8/distributedwebofcare/blob/detroit/README.md) taught by Taeyoon Choi 
 
 _June 2019_
 - We led two code poetry workshops at the The Room Project and the Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
@@ -58,7 +59,7 @@ Co- organizers
 Teachers 
 
 - American Artist 
-- [Ann Haeyoung](https://github.com/a-tbd/sfpc_detroit_2019)
+- Ann Haeyoung
 - Nabil Hassein 
 - Colin Wang 
 - Ron Watters 
