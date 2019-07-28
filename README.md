@@ -5,7 +5,7 @@ August 19 - 25, 2019 at Talking Dolls, Detroit
 
 ### Open call
 
-The [open call](http://sfpc.io/detroit) is live until July 1, 2019.
+The [open call](http://sfpc.io/detroit) is currently closed. 
 
 ### Theme: Uncovering Technology 
 
@@ -19,7 +19,7 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 ### Curriculum
 
-_August 2019_
+_August 2019_ Work in progress 
 - [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
 - [Making Sense](https://docs.google.com/document/d/1yhtziL1SciZRToZQ-hiuAiY7Fn-hAGo_YMhdUF-Itnk/edit) taught by Colin Wang
 - [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
@@ -28,7 +28,7 @@ _August 2019_
 - [DIY Network Protocols and Communication Infrastructures](https://github.com/tchoi8/distributedwebofcare/blob/detroit/README.md) taught by Taeyoon Choi 
 
 _June 2019_
-- We led two code poetry workshops at the The Room Project and the Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
+- We led two code poetry workshops at the The Room Project and the Detroit Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
 - [Folder Poetry Club](https://github.com/melaniehoff/folderpoetry) was a workshop taught by Melanie Hoff, co-organized by the School for Poetic Computation and Detroit Community Technology Project. In tandom with the workshop, Neta Bomani and Taeyoon Choi created a zine.
 
 ### Technology and class materials 
@@ -38,32 +38,38 @@ _June 2019_
 - Mouses 
 - Keyboards 
 - Pen and pencil
-- Note pads 
+- Notepads 
 - Cards
 - Blocks 
 - Chips 
 
 ### Research trips
 
-Trip report 1 & 2 by Neta Bomani and Taeyoon Choi 
+[Trip report #1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb), May 1, 2019
+Trip report #2 (to be published in end of July) 
+Blog postings by Neta Bomani and Taeyoon Choi 
 
 ### People 
 
-Co- organizers 
+Co-organizers
+- [Taeyoon Choi](https://taeyoonchoi.com)
+- [Lauren Gardner](https://poohead.com)
+- [Melanie Hoff](https://melanie-hoff.com)
+- [Neta Bomani](https://netabomani.com)
 
-- Taeyoon Choi 
-- Lauren Gardner
-- Melanie Hoff
-- Neta Bomani 
+Teachers
+- [American Artist](https://americanartist.us)
+- [Ann Haeyoung](https://a-tbd.com/)
+- [Colin Wang](https://www.colinwangdesign.com)
+- [Nabil Hassein](http://nabilhassein.github.io/about)
+- [Melanie Hoff](https://melanie-hoff.com)
+- [Taeyoon Choi](https://taeyoonchoi.com)
+- [Danielle Aubert](http://www.danielleaubert.info/) 
+- [Ron Watters](https://onecustomcity.com/) 
+- [Andrea Cardinal](https://andreacardinal.com/)
+- [Janice Gates](https://detroitcommunitytech.org/)
+- [Tawana Petty](https://detroitcommunitytech.org/)
 
-Teachers 
-
-- American Artist 
-- Ann Haeyoung
-- Nabil Hassein 
-- Colin Wang 
-- Ron Watters 
-- Melanie Hoff
 
 ### Partners 
 
