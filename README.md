@@ -21,7 +21,7 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 _August 2019_ Work in progress 
 - [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
-- [Making Sense](https://docs.google.com/document/d/1yhtziL1SciZRToZQ-hiuAiY7Fn-hAGo_YMhdUF-Itnk/edit) taught by Colin Wang
+- [Making Sense](https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/) taught by Colin Wang
 - [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
 - [The Materiality and Ethnoclass Character of Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
 - [Peer-to-Peer-Poetry: Invisible Cities](https://github.com/melaniehoff/Peer-to-Peer-Poetry) taught by Melanie Hoff
