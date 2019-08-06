@@ -24,6 +24,7 @@ _August 2019_ Work in progress
 - [Making Sense](https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/) taught by Colin Wang
 - [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
 - [An Introduction to Social Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
+- [Expose Surveillance Art Build](https://docs.google.com/document/d/1Rw8Utfc0KYyjsPqCr1vPbx50IVQT2AUR5_i5x4MNB6o/edit?usp=sharing) taught by Andrea Cardinal, Danielle Aubert
 - [Peer-to-Peer-Poetry: Invisible Cities](https://github.com/melaniehoff/Peer-to-Peer-Poetry) taught by Melanie Hoff
 - [DIY Network Protocols and Communication Infrastructures](https://github.com/tchoi8/distributedwebofcare/blob/detroit/README.md) taught by Taeyoon Choi 
 
