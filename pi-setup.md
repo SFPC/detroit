@@ -1,17 +1,17 @@
 # SFPC Detroit pi setup
 
-1. **Within the initial setup interface**
+## 1. **Within the initial setup interface**
 - change pw to `morepoetry`
     - username remains `pi`
 - Say `Yes` install updates
 
-2. **Manually on each pi**
+#h2 2. **Manually on each pi**
 
 *IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the lines below
 
 - `sudo echo "sfpc-x" > /etc/hostname`
 
-3. **run `[sfpc-pi.sh](http://sfpc-pi.sh)` script**
+## 3. **run `[sfpc-pi.sh](http://sfpc-pi.sh)` script**
 
     sudo apt-get update
     sudo apt-get upgrade
@@ -25,7 +25,7 @@
     mkdir folder-poetry
     echo 'alias tree="find . -print | sed -e 's;[^/]*/;|**;g;s;**|; |;g'"' >> ~/.bashrc
 
-4. **Manually on each pi**
+## 4. **Manually on each pi**
 
 *IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the line below
 
@@ -34,5 +34,5 @@
 
 
 
-**To SSF into an sfpc pi**
+## *To SSF into an sfpc pi:**
 `ssh pi@sfpc-2`
