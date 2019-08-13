@@ -44,9 +44,8 @@
     - append this line (CHANGE sfpc-x to the correct number): `127.0.0.1       localhost localhost.localdomain.sfpc-x`
     
 **Enable SSH**
-`sudo raspi-config`
-
-select: `Interfacing Options` > `SSH`, `turn SSH on`
+- `sudo raspi-config`
+- select: `Interfacing Options` > `SSH`, `turn SSH on`
 
 
 
