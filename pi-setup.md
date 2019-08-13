@@ -16,14 +16,14 @@
 - `sudo nano /etc/hostname`
     - replace raspberrypi with `sfpc-x` 
     - save and close: `ctrl + x` + `y` + `enter`
-- `nano .bashrc`
-    - append this line: `alias tree='find . -print | sed -e "s;[^/]*/;|**;g;s;**|; |;g"'`
-    - save and close: `ctrl + x` + `y` + `enter`
 - `sudo apt-get update`
 - `sudo apt-get upgrade`
     - `y`
 - `sudo reboot` to restart
 - open Chrome and navigate to this page: https://github.com/SFPC/detroit/edit/master/pi-setup.md
+- `nano .bashrc`
+    - append this line: `alias tree='find . -print | sed -e "s;[^/]*/;|**;g;s;**|; |;g"'`
+    - save and close: `ctrl + x` + `y` + `enter`
 
 
 ## 3. **run this bash script all at once**
