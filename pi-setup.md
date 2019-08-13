@@ -4,7 +4,8 @@
 - use Detroit timezone
 - change pw to `morepoetry`
     - username remains `pi`
-- Say `Skip` to skip software updates 
+- join wifi
+- say `Skip` to skip software updates 
 - say `later` to restart later
 
 
