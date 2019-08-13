@@ -1,16 +1,21 @@
 # SFPC Detroit pi setup
 
 ## 1. **Within the initial setup interface**
+- use Detroit timezone
 - change pw to `morepoetry`
     - username remains `pi`
-- Say `Yes` install updates
+- Say `Next` to install software updates
+- say `later` to restart later
 
 
 ## 2. **Manually on each pi**
 
 *IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the lines below
 
-- `sudo echo "sfpc-x" > /etc/hostname`
+- `sudo nano /etc/hostname`
+    - replace raspberrypi with `sfpc-x` 
+    - save and close: `ctrl + x` + `y` + `enter`
+- `sudo reboot` to restart
 
 
 ## 3. **run this bash script all at once**
