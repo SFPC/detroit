@@ -37,5 +37,5 @@
 
 
 
-## *To SSF into an sfpc pi:**
+### *To SSH into an sfpc pi:**
 `ssh pi@sfpc-2`
