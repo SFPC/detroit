@@ -40,7 +40,7 @@
 ## 4. **Manually on each pi**
 
 *IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the line below
-- `nano /etc/hosts`
+- `sudo nano /etc/hosts`
     - append this line (CHANGE sfpc-x to the correct number): `127.0.0.1       localhost localhost.localdomain.sfpc-x`
 - `curl -O "[http://aoakley.com/articles/raspbian-image-enable-ssh](http://aoakley.com/articles/raspbian-image-enable-ssh)" && sudo mv raspbian-image-enable-ssh /usr/local/sbin && sudo chmod 755 /usr/local/sbin/raspbian-image-enable-ssh && sudo chown root.root /usr/local/sbin/raspbian-image-enable-ssh`
 
