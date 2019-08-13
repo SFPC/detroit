@@ -1,0 +1,38 @@
+# SFPC Detroit pi setup
+
+1. **Within the initial setup interface**
+- change pw to `morepoetry`
+    - username remains `pi`
+- Say `Yes` install updates
+
+2. **Manually on each pi**
+
+*IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the lines below
+
+- `sudo echo "sfpc-x" > /etc/hostname`
+
+3. **run `[sfpc-pi.sh](http://sfpc-pi.sh)` script**
+
+    sudo apt-get update
+    sudo apt-get upgrade
+    sudo apt-get install avahi-daemon
+    curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh) | bash
+    export NVM_DIR="$HOME/.config"[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" # This loads nvm bash_completion
+    source ~/.bashrc
+    nvm install --lts
+    nvm use --lts
+    npm install -g dat
+    mkdir folder-poetry
+    echo 'alias tree="find . -print | sed -e 's;[^/]*/;|**;g;s;**|; |;g'"' >> ~/.bashrc
+
+4. **Manually on each pi**
+
+*IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the line below
+
+- `sudo echo '127.0.0.1       localhost localhost.localdomain.sfpc-x' >> /etc/hosts`
+- `curl -O "[http://aoakley.com/articles/raspbian-image-enable-ssh](http://aoakley.com/articles/raspbian-image-enable-ssh)" && sudo mv raspbian-image-enable-ssh /usr/local/sbin && sudo chmod 755 /usr/local/sbin/raspbian-image-enable-ssh && sudo chown root.root /usr/local/sbin/raspbian-image-enable-ssh`
+
+
+
+**To SSF into an sfpc pi**
+`ssh pi@sfpc-2`
