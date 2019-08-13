@@ -35,7 +35,6 @@
     nvm use --lts
     npm install -g dat
     mkdir folder-poetry
-    echo 'alias tree="find . -print | sed -e 's;[^/]*/;|**;g;s;**|; |;g'"' >> ~/.bashrc
 
 
 ## 4. **Manually on each pi**
