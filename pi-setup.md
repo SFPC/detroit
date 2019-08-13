@@ -42,6 +42,7 @@
 *IMPORTANT* change `sfpc-x` to `sfpc-3 or 4 or 5 etc..` in the line below
 - `sudo nano /etc/hosts`
     - append this line (CHANGE sfpc-x to the correct number): `127.0.0.1       localhost localhost.localdomain.sfpc-x`
+    
 **Enable SSH**
 `sudo raspi-config`
 
