@@ -17,6 +17,7 @@
     - save and close: `ctrl + x` + `y` + `enter`
 - `nano .bashrc`
     - append this line: `alias tree='find . -print | sed -e "s;[^/]*/;|**;g;s;**|; |;g"'`
+    - save and close: `ctrl + x` + `y` + `enter`
 - `sudo apt-get update`
 - `sudo apt-get upgrade`
     - `y`
