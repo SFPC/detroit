@@ -15,6 +15,8 @@
 - `sudo nano /etc/hostname`
     - replace raspberrypi with `sfpc-x` 
     - save and close: `ctrl + x` + `y` + `enter`
+- `nano .bashrc`
+    - append this line: `alias tree='find . -print | sed -e "s;[^/]*/;|**;g;s;**|; |;g"'`
 - `sudo apt-get update`
 - `sudo apt-get upgrade`
     - `y`
