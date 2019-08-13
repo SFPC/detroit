@@ -17,7 +17,7 @@
     - replace raspberrypi with `sfpc-x` 
     - save and close: `ctrl + x` + `y` + `enter`
 - `sudo apt-get update`
-- `sudo apt-get upgrade`
+- `sudo apt-get upgrade` (this takes a while)
     - `y`
 - `sudo reboot` to restart
 - open Chrome and navigate to this page: https://github.com/SFPC/detroit/edit/master/pi-setup.md
