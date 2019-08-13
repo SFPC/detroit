@@ -16,6 +16,7 @@
     - replace raspberrypi with `sfpc-x` 
     - save and close: `ctrl + x` + `y` + `enter`
 - `sudo reboot` to restart
+- open Chrome and navigate to this page: https://github.com/SFPC/detroit/edit/master/pi-setup.md
 
 
 ## 3. **run this bash script all at once**
