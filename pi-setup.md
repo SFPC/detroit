@@ -15,14 +15,15 @@
 - `sudo nano /etc/hostname`
     - replace raspberrypi with `sfpc-x` 
     - save and close: `ctrl + x` + `y` + `enter`
+- `sudo apt-get update`
+- `sudo apt-get upgrade`
+    - `y`
 - `sudo reboot` to restart
 - open Chrome and navigate to this page: https://github.com/SFPC/detroit/edit/master/pi-setup.md
 
 
 ## 3. **run this bash script all at once**
 
-    sudo apt-get update
-    sudo apt-get upgrade
     sudo apt-get install avahi-daemon
     curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh) | bash
     export NVM_DIR="$HOME/.config"[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion" # This loads nvm bash_completion
