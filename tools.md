@@ -10,6 +10,8 @@ A list of materials for Poetic Computation: Detroit
 - SD cards with Raspbian image: 15 (9 ready now) 
 - Blank SD cards for archive and backup: 20 
 
+![](https://github.com/SFPC/detroit/blob/master/tools/IMG_8242.JPG?raw=true)
+
 # Electronics 
 - Breadboards: 15 (Ordered)
 - LEDs: variety pack from SFPC
@@ -34,7 +36,12 @@ A list of materials for Poetic Computation: Detroit
 - Copper & Zinc (Ann)
 - Alligator clips: (20 ordered)
 - Paper plates (source locally)
-- 9 V Batteries: a variety of new batteries from SFPC 
+- 9V Batteries: 16 new batteries from SFPC 
 
+![](https://github.com/SFPC/detroit/blob/master/tools/IMG_8238.JPG?raw=true)
+
+![](https://github.com/SFPC/detroit/blob/master/tools/IMG_8240.JPG?raw=true)
+
+![](https://github.com/SFPC/detroit/blob/master/tools/IMG_8241.JPG?raw=true)
 
  
