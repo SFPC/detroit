@@ -6,6 +6,7 @@ A list of materials for Poetic Computation: Detroit
 - Raspberry Pi Mouse: 15 
 - [LED Monitors](https://www.dell.com/en-us/shop/dell-22-monitor-p2219h/apd/210-aqbk/monitors-monitor-accessories)
 : 15  
+- HDMI cables: 15 (Ordered)
 - SD cards with Raspbian image: 15 (9 ready now) 
 - Blank SD cards for archive and backup: 20 
 
