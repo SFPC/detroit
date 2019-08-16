@@ -1,11 +1,14 @@
-### Detroit
+This repository contains the curriculum for Poetic Computation: Detroit. A week-long workshop by the School for Poetic Computation in collaboration with Detroit-based partners. 
 
-Poetic Computation: Detroit - 2019 
+### Program
+
+[Poetic Computation: Detroit](http://sfpc.io/detroit) - 2019 
 August 19 - 25, 2019 at Talking Dolls, Detroit 
 
-### Open call
+### Public events 
 
-The [open call](http://sfpc.io/detroit) is currently closed. 
+- [Meet the Teachers Salon](https://www.eventbrite.com/e/poetic-computation-detroit-salon-tickets-68190412359) on August 23, 2019 at the Jam Handy
+- [Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
 
 ### Theme: Uncovering Technology 
 
@@ -19,7 +22,7 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 ### Curriculum
 
-_August 2019_ Work in progress 
+_August 2019_  
 - [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
 - [Making Sense](https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/) taught by Colin Wang
 - [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
@@ -33,21 +36,17 @@ _June 2019_
 - [Folder Poetry](https://github.com/melaniehoff/folderpoetry) was a workshop taught by Melanie Hoff, co-organized by the School for Poetic Computation and Detroit Community Technology Project. In tandom with the workshop, Neta Bomani and Taeyoon Choi created a zine.
 
 ### Technology and class materials 
+ 
+We will use Raspberry Pis for all class. [Set up tutorial](https://github.com/SFPC/detroit/blob/master/pi-setup.md).
 
-- Raspberry Pi computers 
-- SD Cards
-- Mouses 
-- Keyboards 
-- Pen and pencil
-- Notepads 
-- Cards
-- Blocks 
-- Chips 
+We will have basic electronics and craft materials in class. [List of tools](https://github.com/SFPC/detroit/blob/master/tools.md).  
+
 
 ### Research trips
 
-[Trip report #1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb), May 1, 2019
-Trip report #2 (to be published in end of July) 
+- [Trip report #1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb), May 1, 2019
+- [Trip report #2](https://medium.com/sfpc/poetic-computation-detroit-2-f57835a867b2), August 2, 2019
+
 Blog postings by Neta Bomani and Taeyoon Choi 
 
 ### People 
@@ -82,3 +81,9 @@ Teachers
 - Detroit Community Technology Project 
 - MOCAD
 - The Room Project  
+
+### How to be involved
+
+- Follow us on [Instagram](https://instagram.com/sfpc_nyc) and [Twitter](https://twitter.com/sfpc) 
+- Sign up to our [mailing list](https://sfpc.io) 
+- Participate in two public programs in August 
