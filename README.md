@@ -87,3 +87,11 @@ Teachers
 - Follow us on [Instagram](https://instagram.com/sfpc_nyc) and [Twitter](https://twitter.com/sfpc) 
 - Sign up to our [mailing list](https://sfpc.io) 
 - Participate in two public programs in August 
+
+![A square flyer of a drawing of a laptop character who is holding up a microphone and surrounded by a crowd of smiling blobs. The drawing and text are colored baby pink while the background is chroma key blue. The poster has all the event details written on it in serif capital font and hand written text.](https://github.com/SFPC/detroit/blob/master/images/detroit-salon.png?raw=true)
+
+[Meet the Teachers Salon](https://www.eventbrite.com/e/poetic-computation-detroit-salon-tickets-68190412359) on August 23, 2019 at the Jam Handy
+
+![A flyer colored pink and blue with handrawn illustrations of a laptop, terminal window, led, battery, alligator clips and wifi box that has all the details of the showcase written on it.](https://github.com/SFPC/detroit/blob/master/images/detroit-showcase.png?raw=true)
+
+[Showcase](https://www.eventbrite.com/e/poetic-computation-detroit-showcase-tickets-67655678957) on August 25, 2019 at the Talking Dolls
