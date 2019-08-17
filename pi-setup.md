@@ -99,9 +99,7 @@ Install git
 
 `sudo apt install git`
 
-Install python 3
-
-`sudo apt-get install python3-picamera`
+reboot
 
 `sudo reboot`
 
@@ -115,7 +113,5 @@ Install python 3
 `sudo nano config.txt`
 
 `sudo apt install git`
-
-`sudo apt-get install python3-picamera`
 
 
