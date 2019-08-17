@@ -86,32 +86,9 @@ uncomment (by removing #)
 
 save and close: `ctrl + x` + `y` + `enter`
 
-
-
-### Setup Continued
-
-Get back to home directory
-
-`cd`
-- `cd` always brings you back to home from wherever you are in your folder tree.
-
-Install git
-
-`sudo apt install git`
-
 reboot
 
 `sudo reboot`
 
-
-
-
-----------------------------------
-
-### Melanie's Notes, ignore
-
-`sudo nano config.txt`
-
-`sudo apt install git`
 
 
