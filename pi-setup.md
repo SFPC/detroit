@@ -1,5 +1,6 @@
 # SFPC Detroit pi setup
 
+
 ## 1. **Within the initial setup interface**
 - use Detroit timezone
 - change pw to `morepoetry`
@@ -52,3 +53,38 @@
 
 ### To SSH into an sfpc pi
 `ssh pi@sfpc-2`
+
+
+
+---
+
+### Troubleshooting 
+
+When you plug in the Pi to monitor, with a HDMI cable, you may notice a black border around the image. This is because the operating system is not in HDMI mode yet. 
+
+Now, open up the terminal, and go to the Boot folder.
+
+`cd ..`
+
+you will be at the /home
+
+`cd ..` 
+
+one more time and you will be at the root level. this is the top level in the SD card. 
+
+now, we will go into the boot folder. 
+
+`cd boot`
+
+now, we are going to change 
+
+`sudo nano congif.txt`
+
+uncomment (by removing #) 
+
+`disable_overscan=1`
+
+save and close: `ctrl + x` + `y` + `enter`
+
+`reboot`
+
