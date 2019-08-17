@@ -86,7 +86,6 @@ uncomment (by removing #)
 
 save and close: `ctrl + x` + `y` + `enter`
 
-`reboot`
 
 
 ### Setup Continued
@@ -102,6 +101,17 @@ Install git
 
 Install python 3
 
+`sudo apt-get install python3-picamera`
+
+`sudo reboot`
+
+
+
+---Melanie Notes
+
+`sudo nano congif.txt`
+
+`sudo apt install git`
 `sudo apt-get install python3-picamera`
 
 
