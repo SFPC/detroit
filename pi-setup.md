@@ -58,7 +58,7 @@
 
 ---
 
-### Troubleshooting 
+### Troubleshooting Display
 
 When you plug in the Pi to monitor, with a HDMI cable, you may notice a black border around the image. This is because the operating system is not in HDMI mode yet. 
 
@@ -87,4 +87,21 @@ uncomment (by removing #)
 save and close: `ctrl + x` + `y` + `enter`
 
 `reboot`
+
+
+### Setup Continued
+
+Get back to home directory
+
+`cd`
+- `cd` always brings you back to home from wherever you are in your folder tree.
+
+Install git
+
+`sudo apt install git`
+
+Install python 3
+
+`sudo apt-get install python3-picamera`
+
 
