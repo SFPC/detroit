@@ -78,7 +78,7 @@ now, we will go into the boot folder.
 
 now, we are going to change 
 
-`sudo nano congif.txt`
+`sudo nano config.txt`
 
 uncomment (by removing #) 
 
@@ -109,7 +109,7 @@ Install python 3
 
 ---Melanie Notes
 
-`sudo nano congif.txt`
+`sudo nano config.txt`
 
 `sudo apt install git`
 `sudo apt-get install python3-picamera`
