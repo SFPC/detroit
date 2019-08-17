@@ -107,11 +107,15 @@ Install python 3
 
 
 
----Melanie Notes
+
+----------------------------------
+
+### Melanie's Notes, ignore
 
 `sudo nano config.txt`
 
 `sudo apt install git`
+
 `sudo apt-get install python3-picamera`
 
 
