@@ -23,13 +23,17 @@ Through lectures, field trips, and hands-on making, students will explore and re
 ### Curriculum
 
 _August 2019_  
-- [Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
-- [Making Sense](https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/) taught by Colin Wang
-- [The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
-- [An Introduction to Social Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
-- [Expose Surveillance Art Build](https://docs.google.com/document/d/1Rw8Utfc0KYyjsPqCr1vPbx50IVQT2AUR5_i5x4MNB6o/edit?usp=sharing) taught by Andrea Cardinal, Danielle Aubert
-- [Peer-to-Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) taught by Melanie Hoff
-- [DIY Network Protocols and Communication Infrastructures](https://github.com/tchoi8/distributedwebofcare/blob/detroit/README.md) taught by Taeyoon Choi 
+
+[Detailed schedule](https://docs.google.com/spreadsheets/d/1-GvC-rcnc7aoOyL5m3xYOVFbnwLkH4XDBsYuEZrOjzc/edit?usp=sharing) 
+- Day 1:[Onboarding](https://github.com/sfpc/detroit/onboarding.md) 
+- Day 1:Tawana Petty from the Detroit Community Technology Project 
+- Day 1:[An Introduction to Social Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
+- Day 2-3:[The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) taught by Ann Haeyoung
+- Day 2:[Peer-to-Peer Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry) taught by Melanie Hoff
+- Day 3:[Making Sense](https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/) taught by Colin Wang
+- Day 4-5:[Below (the University) and Beyond (Technology)](https://github.com/0ld-h3ad/belowandbeyond-detroit-2019) by American Artist
+- Day 4:[Expose Surveillance Art Build](https://docs.google.com/document/d/1Rw8Utfc0KYyjsPqCr1vPbx50IVQT2AUR5_i5x4MNB6o/edit?usp=sharing) taught by Andrea Cardinal, Danielle Aubert
+- Day 5:[DIY Network Protocols and Communication Infrastructures](https://github.com/tchoi8/distributedwebofcare/blob/detroit/README.md) taught by Taeyoon Choi 
 
 _June 2019_
 - We led two code poetry workshops at the The Room Project and the Detroit Commons. The workshop involved a sensory exercise where participants were asked to act as a conduit for their body and record unfiltered sensory information through words, then transfer those words onto cards in order to algorithmically rearrange them and read them out loud in a webring poem. 
