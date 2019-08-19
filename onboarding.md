@@ -25,6 +25,7 @@
 
 ## Schedule, Office hours, & Showcase: 5 minutes 
 (Lead by Melanie Hoff) 
+- This hour is about creatind a space where students and teachers feel safe, supported, and generative in the unique collaborative learning environment of SFPC
 - Tour of Schedule
 - How to best utilize the office hours 
 - What to exepct from the office hours 
