@@ -35,6 +35,7 @@
 (Lead by Melanie Hoff)
 - Welcome to your Pi
   - Why are we usng Pis for SFPC Detroit?
+    - Connection to theme, Uncovering technology & creating a more equitable computing environment.
 - How to treat your Pi carefully
   - Unplugging carefully
   - What to the red and green dots mean?
