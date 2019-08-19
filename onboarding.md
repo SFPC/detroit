@@ -17,13 +17,13 @@
 - Acknolwedgment of the land, the Anishinaabe people and "Three Fires People’ which are the Ojibwe, Odawa and Botawatam" - [Who Were the Natives in Detroit?](https://wdet.org/posts/2017/04/30/85115-curiosid-who-were-the-natives-in-detroit/)
 - The Talking Dolls Studio: Ron, Andrea, Russel, Wes and the residents 
 
-## Code of Conduct: 15 minutes
+## Code of Conduct: 15 minutes (4:20pm)
 (lead by Taeyoon Choi and Neta Bomani)
 - Review the [CoC](https://github.com/SFPC/detroit/blob/master/CODE_OF_CONDUCT.md)
 - Detroit-specific CoC 
 - Liability release form for photographs and insurance 
 
-## Schedule, Office hours, & Showcase: 5 minutes 
+## Schedule, Office hours, & Showcase: 5 minutes ((4:25pm)
 (Lead by Melanie Hoff) 
 - This hour is about creatind a space where students and teachers feel safe, supported, and generative in the unique collaborative learning environment of SFPC
 - Tour of Schedule
