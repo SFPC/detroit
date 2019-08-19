@@ -34,7 +34,7 @@
 
 ## Introuction to Pis: 15 minutes  
 (Lead by Melanie Hoff)
-- https://www.google.com/search?q=raspberry+pi+3&safe=off&rlz=1CDGOYI_enUS657US657&hl=en-US&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7ruOv34_kAhUSR6wKHR73Dy8Q_AUIEygD&biw=1100&bih=1918#imgrc=fPwDGMFFwK9_DM:
+- [What a Pi looks like](https://www.google.com/search?q=raspberry+pi+3&safe=off&rlz=1CDGOYI_enUS657US657&hl=en-US&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi7ruOv34_kAhUSR6wKHR73Dy8Q_AUIEygD&biw=1100&bih=1918#imgrc=fPwDGMFFwK9_DM:)
 - Welcome to your Pi, **Remember your number written on the red tape**
 - How to treat your Pi carefully
   - Unplugging carefully
