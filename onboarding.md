@@ -30,6 +30,7 @@
 - How to best utilize the office hours 
 - What to exepct from the office hours 
 - Showcase description and expectations
+    - Brief spoken presentations from each student. This is your opportunity to share your reflections of your experience with SFPC with each other and your community. Neta will be sharing the link to invite your friends.
 
 ## Introuction to Pis: 15 minutes  
 (Lead by Melanie Hoff)
