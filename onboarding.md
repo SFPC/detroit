@@ -34,12 +34,12 @@
 ## Introuction to Pis: 15 minutes  
 (Lead by Melanie Hoff)
 - Welcome to your Pi
-  - Why are we usng Pis for SFPC Detroit?
-    - Connection to theme, Uncovering technology & creating a more equitable computing environment.
 - How to treat your Pi carefully
   - Unplugging carefully
   - What to the red and green dots mean?
 - Mini tour of the board
+  - Why are we usng Pis for SFPC Detroit?
+    - Connection to theme, Uncovering technology & creating a more equitable computing environment.
 - Raspbian is the Operating system of our Pis. It is free and optimized for Raspberry Pis
 - Terminal & Chrome applications
 - Activity: Change your background to something that makes you feel at home 🏡
