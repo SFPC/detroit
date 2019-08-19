@@ -23,12 +23,24 @@
 - Detroit-specific CoC 
 - Liability release form for photographs and insurance 
 
-## Office hours: 5 minutes 
+## Schedule, Office hours, & Showcase: 5 minutes 
 (Lead by Melanie Hoff) 
+- Tour of Schedule
 - How to best utilize the office hours 
 - What to exepct from the office hours 
+- Showcase description and expectations
 
 ## Introuction to Pis: 15 minutes  
-(Lead by Melanie Hoff_
+(Lead by Melanie Hoff)
+- Welcome to your Pi
+  - Why are we usng Pis for SFPC Detroit?
+- How to treat your Pi carefully
+  - Unplugging carefully
+  - What to the red and green dots mean?
+- Mini tour of the board
+- Raspbian is the Operating system of our Pis. It is free and optimized for Raspberry Pis
+- Terminal & Chrome applications
+- Activity: Change your background to something that makes you feel at home 🏡
+
 
 Break 
