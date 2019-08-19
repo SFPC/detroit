@@ -1,4 +1,4 @@
-This repository contains the curriculum for Poetic Computation: Detroit. A week-long workshop by the School for Poetic Computation in collaboration with Detroit-based partners. 
+	This repository contains the curriculum for Poetic Computation: Detroit. A week-long workshop by the School for Poetic Computation in collaboration with Detroit-based partners. 
 
 ### Program
 
