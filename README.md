@@ -24,7 +24,7 @@ Through lectures, field trips, and hands-on making, students will explore and re
 
 _August 2019_  
 
-[Detailed schedule](https://docs.google.com/spreadsheets/d/1-GvC-rcnc7aoOyL5m3xYOVFbnwLkH4XDBsYuEZrOjzc/edit?usp=sharing) 
+[Detailed schedule & Office hour signup](https://docs.google.com/spreadsheets/d/1-GvC-rcnc7aoOyL5m3xYOVFbnwLkH4XDBsYuEZrOjzc/edit?usp=sharing) 
 - Day 1:[Onboarding](https://github.com/sfpc/detroit/onboarding.md) 
 - Day 1:Tawana Petty from the Detroit Community Technology Project 
 - Day 1:[An Introduction to Social Computing](https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing/blob/master/README.md) taught by Nabil Hassein
