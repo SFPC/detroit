@@ -29,6 +29,12 @@
 - Inspire the Detroit community with art, design and technology via class projects, zines and showcase 
 - Collaborate with local partners, PR agencies and community leaders
  
+
+
+![](https://github.com/SFPC/detroit/blob/master/images/relation.jpg?raw=true)
+
+![](https://github.com/SFPC/detroit/blob/master/images/network.jpg?raw=true)
+
 ## Publications 
 
 - A zine collection [Link]
