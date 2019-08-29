@@ -1,10 +1,13 @@
 # Mission and principles for organizing an off-site session
 
-Mission statement and pedagogical principles for School for Poetic Computation session in a remote location. This guide was written by Taeyoon Choi with Melanie Hoff, Lauren Gardner, for the Poetic Computation: Detroit session in 2019. The guide can be edited for another location and community. 
+Mission statement and pedagogical principles for School for Poetic Computation session in a remote location. This guide was written by Taeyoon Choi with Melanie Hoff, Lauren Gardner, for the Poetic Computation: Detroit session in 2019. The session was organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani in partnership with The Talking Dolls, in collaboration with The Room Project, Detroit Community Technology Project, and supported by the Knight Foundation. The guide can be edited for another location and community. 
+
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSC06085.jpg?raw=true)
 
 # 1. Community outreach
 
-We acknowledge our position as outsiders to Detroit. Because of our lack of context and community, we are mindful of our privileges and responsibilities. First, we want to acknowledge the indigenous, traditional and local communities in the area. To resist the settler colonialism, racism, sexism and ableism, we initiated diversity and inclusion effort by reaching out to local community stakeholders (prioritizing underrepresented communities of color) prior to the event. We built partnership with the people who have been doing similar work for a long time in the area.  
+We acknowledge our position as outsiders to Detroit. Because of our lack of local context and community, we are mindful of our privileges and responsibilities. First, we want to acknowledge the indigenous, traditional and local communities in the area. To resist the settler colonialism, racism, sexism and ableism, we initiated diversity and inclusion effort by reaching out to local community stakeholders (prioritizing underrepresented communities of color) prior to the event. We built partnership with the people who have been doing similar work for a long time in the area.  
 
 Approaches 
 
@@ -13,7 +16,7 @@ Approaches
 
 # 2. Develop a curriculum for a specific community
 
-We considered the interest and needs of the community. We researched the classes that are available for the local students now and what's missing. In Detroit, there are occupational software (coding and video editing) classes that are run by for profit schools, and a variety of non-profit organizations that offer accessible education. We decided to focus on artists, organizers and educator community and offer classes on creative technology, theory and social justice.  
+We considered the interest and needs of the community. We researched the classes that are available for the local students now and what's missing. In Detroit, there are professional software (coding and video editing) classes that are run by for profit schools, and a variety of non-profit organizations that offer accessible education. We decided to focus on artists, organizers and educator community and offer classes on creative technology, theory and social justice.  
 
 Approaches 
 
@@ -24,7 +27,7 @@ Approaches
 
 # 3. Explore a theme that's exciting to teachers
 
-Based on our research trips, we spoke with our teachers and alums, and brainstormed the session’s theme. We wanted a new theme to motivate teachers to create something in response to the needs of the Detroit community.  For example, Ann’s inquiry into ‘power’ in addition to her labor organizing was an exciting fit for Detroit. Melanie’s ‘Folder Poetry’ was a good example of explaining base elements of how a computer works while working within the constraints of a Raspberry Pi. We wanted to express to the students that learning computation is not a means to an end. With the theme of Uncovering Technology, we designed a curriculum that supports students to be empowered with creative expression, independence and experimentation. 
+Based on our research trips, we spoke with our teachers and alums, and brainstormed the session’s theme. We wanted a new theme to motivate teachers to create something in response to the needs of the Detroit community.  For example, Ann Haeyoung's class, '[The Workers Inquiry](https://github.com/a-tbd/sfpc_detroit_2019) was an inquiry into ‘power’ in addition to her labor organizing was an exciting fit for Detroit. Melanie Hoff’s class '[Folder Poetry](https://github.com/melaniehoff/Peer-to-Peer-Poetry)’ was a good example of explaining base elements of how a computer works while working within the constraints of a Raspberry Pi. We wanted to express to the students that learning computation is not a means to an end. With the theme of Uncovering Technology, we designed a curriculum that supports students to be empowered with creative expression, independence and experimentation. 
 
 Approaches:
 
@@ -44,8 +47,8 @@ It’s not enough to provide the tools and lessons. In order to create a safe en
 Approaches: 
 
 - Sourcing: Research, prototype and testing of potential hardware. Purchase tools necessary for the session. 
-- Set up Raspberry Pi for all classes. In our case, it took 6 days of two teachers work. 
-- Make public documentation with the list of tools and set up for future organizers. Read the set up guide for reference.   
+- Set up Raspberry Pi for all classes. In our case, it took 6 days of two teachers work. Work in progress [software documentation](https://github.com/SFPC/detroit/blob/master/pi-setup.md) of set up. 
+- Make public [hardware documentation](https://github.com/SFPC/detroit/blob/master/tools.md) with the list of tools and set up for future organizers. Read the set up guide for reference.   
 - Share class notes, slides and reading with acknowledgement to the original authors and publishers. Make digital and physical copies for students. 
 - Provide opportunities for participants to build connections from our program 
 - Finding a space that we feel ownership of. Finding a host, Talking Dolls, who is responsive and present like a partner and not a landlord. This reverberated down through the students as well making them feel comfortable. 
@@ -100,6 +103,7 @@ Stewardship of knowledge is about sharing the information and expertise with the
 Approaches 
 
 - Before gifting the technology, request a plan for use of the technology, for creative work and teaching other people in their community. 
+- Provide an agreement form for accepting technology donation. 
 - Provide a donation options for them when they are not using them. 
 - Ask participants to use the technology to run programs like this on their own.
 - Ask participants to sign an agreement for becoming a steward of the technology.
@@ -114,6 +118,7 @@ Approaches
 - Conduct interviews with students and final survey. 
 - Public events of Salon and Showcase. Open invitation to everyone in the community. We keep track of the result with photo, video documentation. These are community events for the larger public. 
 - Publish  a zine that includes student works, class notes and participant responses.
+- Collect archival materials from participants and documentation team. 
 
 # 10. Next steps & takeaways
 
