@@ -1,8 +1,8 @@
 # Mission and principles for organizing an off-site session
 
-* work in progress. Deadline October 1st, 2019 *
+*Work in progress until October 1st, 2019*
 
-Mission statement and pedagogical principles for School for Poetic Computation session in a remote location. This guide was written by Taeyoon Choi with Melanie Hoff, Lauren Gardner, for the Poetic Computation: Detroit session in 2019. The session was organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani in partnership with The Talking Dolls, in collaboration with The Room Project, Detroit Community Technology Project, and supported by the Knight Foundation. The guide can be edited for another location and community. 
+Mission statement and pedagogical principles for School for Poetic Computation session in a remote location. This guide was written by Taeyoon Choi with Melanie Hoff, Lauren Gardner, for the Poetic Computation: Detroit session in 2019. The session was organized by SFPC: Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani in partnership with The Talking Dolls, in collaboration with The Room Project, Detroit Community Technology Project, and supported by the Knight Foundation. The guide can be edited for another location and community. 
 
 
 ![](https://github.com/SFPC/detroit/blob/master/images/DSC06085.jpg?raw=true)
@@ -20,11 +20,11 @@ Approaches
 
 # 2. Develop a curriculum for a specific community
 
-We considered the interest and needs of the community. We researched the classes that are available for the local students now and what's missing. In Detroit, there are professional software (coding and video editing) classes that are run by for profit schools, and a variety of non-profit organizations that offer accessible education. We decided to focus on artists, organizers and educator community and offer classes on creative technology, theory and social justice.  
+We considered the interest and needs of the community. We researched the classes that are available for the local students now and what's missing. In Detroit, there are professional software (coding and video editing) classes that are run by for profit schools, and a variety of non-profit organizations that offer accessible education. We decided to focus on artists, organizers and educator community and offer classes on *creative technology, theory and social justice*.  
 
 Approaches 
 
-- Build on existing curriculum from SFPC, offering software, physical computing and critical theory 
+- Build on existing curriculum from SFPC, offering software, physical computing and critical theory. [Final curriculum](https://github.com/SFPC/detroit/blob/master/README.md). 
 - Focus on tech literacy that exists as base layer in all hardware and software.  
 - Develop skills that will enable students to understand computation across most devices. These are skills that are not specific to certain product, operating systems or programming language.
 - Design a learning journey for students to scaffold new ideas and skills across classes. 
@@ -41,6 +41,7 @@ Approaches:
 - Create a collaborative classes by pairing teachers. 
 - Organize semi-regular meetings with teachers to build a cohesive curriculum. 
 - Ask teachers to fulfill three expectations when developing class ideas.  
+
     a. Teach something they are excited about 
     b. Involve technology in some capacity  
     c. Design a class assignment for an outcome ready for public showcase  
@@ -142,13 +143,16 @@ Approaches
  
 # 10. Next steps & takeaways
 
-We were excited about the opportunity to work with a new community but we under estimated the amount of time and effort it would take to produce a session remotely. It took longer to find teachers and students in Detroit because we did not have deep local connections already made. We also had to plan an additional research trip to scout locations for the on-site program.
+We were excited about the opportunity to work with a new community but we under estimated the amount of time and effort it would take to produce a session remotely. It took longer to find teachers and students in Detroit because we did not have deep local connections already made. We conducted an additional research trip to scout locations for the on-site program. 
 
-- Do not promise another session unless we've secured funding and logistical requirements. 
+- Set a realistic expectation. Do not promise another session unless we've secured funding and logistical requirements. 
 - Be clear about our capacities as individuals and a collective. 
-- Communicate about ways in which the participants can help make the next session possible. 
+- Communicate about ways in which the participants can help make the next session possible. Writing blog postings, organizing meet up and exhibition. 
 - Support the participants to self-organize local meet ups and workshops.
 - Thank all the local partners, collaborators and contributors. Share our outputs with them.
 - Produce a final report for funders that can act as an organizing guideline for future organizers. 
 - Document our curriculum and a project archive. Share the documents openly so it can be re-used. 
+- Poetic Computation: Detroit Oral History Zines, edited by Neta Bomani will be distributed freely at the [Detroit Art Book Fair](https://detroitartbookfair.com/) in October 12-13, 2019 by [Teikaut](https://www.instagram.com/teikaut/).  
+- Video documentation (6 minutes highlight) will be edited by Cylent Media Production, distributed on SFPC's vimeo channel. 
 
+*Photos by Charlie Chioma Okwu* 
