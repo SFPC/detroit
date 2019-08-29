@@ -1,5 +1,7 @@
 # Mission and principles for organizing an off-site session
 
+* work in progress. Deadline October 1st, 2019 *
+
 Mission statement and pedagogical principles for School for Poetic Computation session in a remote location. This guide was written by Taeyoon Choi with Melanie Hoff, Lauren Gardner, for the Poetic Computation: Detroit session in 2019. The session was organized by Taeyoon Choi, Lauren Gardner, Melanie Hoff, Neta Bomani in partnership with The Talking Dolls, in collaboration with The Room Project, Detroit Community Technology Project, and supported by the Knight Foundation. The guide can be edited for another location and community. 
 
 
@@ -14,6 +16,8 @@ Approaches
 - Land acknowledgement (publicly mentioning the indigenous community in the region) in blog, class and public events. 
 - Reach out and respond to the local community members with care and respect. 
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSC06247.jpg?raw=true)
+
 # 2. Develop a curriculum for a specific community
 
 We considered the interest and needs of the community. We researched the classes that are available for the local students now and what's missing. In Detroit, there are professional software (coding and video editing) classes that are run by for profit schools, and a variety of non-profit organizations that offer accessible education. We decided to focus on artists, organizers and educator community and offer classes on creative technology, theory and social justice.  
@@ -24,6 +28,9 @@ Approaches
 - Focus on tech literacy that exists as base layer in all hardware and software.  
 - Develop skills that will enable students to understand computation across most devices. These are skills that are not specific to certain product, operating systems or programming language.
 - Design a learning journey for students to scaffold new ideas and skills across classes. 
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSC06269.jpg?raw=true)
+
 
 # 3. Explore a theme that's exciting to teachers
 
@@ -37,6 +44,8 @@ Approaches:
     a. Teach something they are excited about 
     b. Involve technology in some capacity  
     c. Design a class assignment for an outcome ready for public showcase  
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF6502.jpg?raw=true)
 
 # 4. Provide equitable access to tools and knowledge
 
@@ -53,6 +62,8 @@ Approaches:
 - Provide opportunities for participants to build connections from our program 
 - Finding a space that we feel ownership of. Finding a host, Talking Dolls, who is responsive and present like a partner and not a landlord. This reverberated down through the students as well making them feel comfortable. 
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF6827.jpg?raw=true)
+
 # 5. Positive experience for the teachers and organizers
 
 It is hard for teachers to deliver their work to a new audience and in an environment where they have less control. Our aim was to fully support the logistics of their travel and accommodation so they could focus on their class. We did this by providing a daily stipend, paying a reasonable wage for teaching, provide technical and pedagogical support in preparation and for execution of the class. We hired four organizers and seven teachers, who shared a housing and two cars. 
@@ -67,6 +78,7 @@ Approaches:
 - Pay teachers per-diem before trip to cover their expenses on site.
 - Encourage work-talk or planning conversations during specific times so participants can also enjoy each other in a more personal and fun way.
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF7464.jpg?raw=true)
 # 6. Diversity and inclusivity
 
 The School for Poetic Computation’s mission prioritizes diversity and inclusion (D&I) of marginalized communities in the art and technology field, especially women, LGBITQ and disability community. For Poetic Computation: Detroit, we considered D&I in both our hiring process and student selection. 
@@ -82,6 +94,8 @@ Approaches:
 - Prioritize the local community by asking students to list their zip code in the application.
 - Create and enforce Code of Conduct for D&I. 
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF7641.jpg?raw=true)
+
 # 7. Representation and visibility
 
 Understand the differences between representation, visibility and tokenization. Representation is when our potential students can see themselves in the teachers and facilitators of the program. Visibility is when our students have equal voice and space in the program. Tokenization occurs when visibility is not provided in spite of representation. We want to avoid that at all costs. There is no one way to have a fair representation and visibility. It's a constant work in progress, iterative process that requires the work of everyone involved in the program.
@@ -92,6 +106,8 @@ Approaches:
 - Make sure teachers and facilitators represent the diversity of the prospective students.
 - Make they can have their voices heard. Make sure to carve out the time for the quiet, shy individuals.
 - Try to avoid tokenization of the marginalized individuals by asking their individual needs prior to the event. This includes, dietary restrictions, sensitivity to certain language and cultural references
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF3661.jpg?raw=true)
 
 # 8. Guide for stewardship of technology and knowledge
 
@@ -109,6 +125,8 @@ Approaches
 - Ask participants to sign an agreement for becoming a steward of the technology.
 - Provide the curriculum for students to run an educational program, like Poetic Computation: Detroit.  
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF3755.jpg?raw=true)
+
 # 9. Produce tangible outcomes 
 
 The most important outcome is providing a positive learning experience of the students and raise awareness about poetic computation in Detroit. This is a hard metric to quantify as individual experiences are personal. We want to encourage the students, their communities and others to engage with poetic computation and we try to capture learning process, student work and their thoughts along the way to grow awareness of studying technology through artistic exploration.
@@ -120,6 +138,8 @@ Approaches
 - Publish  a zine that includes student works, class notes and participant responses.
 - Collect archival materials from participants and documentation team. 
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF3151.jpg?raw=true)
+ 
 # 10. Next steps & takeaways
 
 We were excited about the opportunity to work with a new community but we under estimated the amount of time and effort it would take to produce a session remotely. It took longer to find teachers and students in Detroit because we did not have deep local connections already made. We also had to plan an additional research trip to scout locations for the on-site program.
