@@ -4,6 +4,8 @@
 
 "What were the key outcomes of the project?"
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF2504.jpg?raw=true)
+
 ## 1. Curriculum 
 
 - Design a new curriculum on Unconvering Technology  
@@ -15,6 +17,8 @@
 - Teach technical classes covering key computing concepts, function, variable, state based programming in Python 
 - Provide equitable access to tools, donate all hardware and software (Raspberry Pis customized with a static IP and Dat)
 - Integrate critical theory, community technology and code, i.e. Power, in electricity and in politics, undercommons inside of academic institutions and cities, operating systems as a poetic media, peer to peer, decentralized protocols to change our relationship with technology 
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF2670.jpg?raw=true)
 
 ## 2. Community outreach 
 
@@ -47,6 +51,7 @@ Blog posting
 - Day 7 Student Showcase 
 - Final reflection 
 
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF3692.jpg?raw=true)
 
 # B: Lessons from Detroit 
 
@@ -72,6 +77,9 @@ Blog posting
 - How to define roles and responsbilities of co-organizers 
 - How to support local organizers continue the work 
 - How to hear and local voices: Critical theory class generated intense debates about the tech industry and gentrification, debt and surveillance.  
+- We learned about, and connected with a variety of Detroit and Michigan based artists, educators and organizers. We hope to highlight their work via blog postings and future programs.  
+
+![](https://github.com/SFPC/detroit/blob/master/images/DSCF3729.jpg?raw=true)
 
 # C: Output
 
