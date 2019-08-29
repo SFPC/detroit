@@ -9,21 +9,21 @@
 - Design a new curriculum on Unconvering Technology  
 - Develop original syllabus, slides and tutorials 
 - Document class notes, photos and audio files and make available for the students and researchers 
-- Focus on technical literacy as opposed to creative coding 
+- Focus on technical literacy other than creative coding 
 - Combine critical theory and practice  
 - Invite Detroit-based teachers and speakers 
-- Teach coding classes covering key computing concepts, function, variable, state based program in Python on Raspberry Pi computers 
-- Provide an equitable access to tools, donate all hardware and software (Raspberry Pis customized with a static IP and Dat)
+- Teach technical classes covering key computing concepts, function, variable, state based programming in Python 
+- Provide equitable access to tools, donate all hardware and software (Raspberry Pis customized with a static IP and Dat)
 - Integrate critical theory, community technology and code, i.e. Power, in electricity and in politics, undercommons inside of academic institutions and cities, operating systems as a poetic media, peer to peer, decentralized protocols to change our relationship with technology 
 
 ## 2. Community outreach 
 
-- Organize 4 Public events in Detroit 
-- Offer 7 days of fully attended  
+- Organize 4 public events in Detroit between June and August
+- Offer 7 days of full time classes 
 - Inivite diverse student body that represent Detroit community 
 - Build a community of students, teachers and friends  
 - Inspire the Detroit community with art, design and technology via class projects, zines and showcase 
-- Collaborate with local partners, PR agencies and collaborators 
+- Collaborate with local partners, PR agencies and community leaders
  
 ## Publications 
 
@@ -37,7 +37,7 @@ Blog posting
 
 - [Research trip 1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb) 
 - [Research trip 2](https://medium.com/sfpc/poetic-computation-detroit-2-f57835a867b2) 
-- Day 0 [Meet the students]()https://medium.com/sfpc/meet-the-students-and-teachers-of-poetic-computation-detroit-2019-ab11c7e9307b) 
+- Day 0 [Meet the students](https://medium.com/sfpc/meet-the-students-and-teachers-of-poetic-computation-detroit-2019-ab11c7e9307b) 
 - Day 1 [Tawana and Nabil](https://medium.com/sfpc/poetic-computation-detroit-day-1-6da9406de358)
 - Day 2 [Ann and Melanie](https://cdn-images-1.medium.com/fit/t/1440/432/1*H_Xzn1oIvP-htMlgkqePWg.jpeg) 
 - Day 3 Ann and Colin 
@@ -57,7 +57,12 @@ Blog posting
 - How to build trust with the community leaders 
 - 'What is easy is sustainable' - adrienne maree brown
 - How to package our philosophy and pedagogy in a week
-- How to localize a code of conduct 
+- How we decided the timing of late August 
+- How to [onboard](https://github.com/SFPC/detroit/blob/master/onboarding.md) students and staff 
+- How to [take notes](https://github.com/SFPC/detroit/blob/master/note-taking.md) 
+- How to write blog postings
+- How to set up Raspberry Pis 
+- How to localize a [code of conduct](https://github.com/SFPC/detroit/blob/master/CODE_OF_CONDUCT.md) 
 - How to create and update the budget
 - How to manage schedule and logistics 
 - How to balance structured learning and exploration 
