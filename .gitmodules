@@ -1,0 +1,15 @@
+[submodule "syllabus/materiality-and-ethnoclass-character-of-computing"]
+	path = syllabus/materiality-and-ethnoclass-character-of-computing
+	url = https://github.com/nabilhassein/materiality-and-ethnoclass-character-of-computing
+[submodule "syllabus/sfpc_detroit_2019"]
+	path = syllabus/sfpc_detroit_2019
+	url = https://github.com/a-tbd/sfpc_detroit_2019
+[submodule "syllabus/Peer-to-Peer-Folder-Poetry"]
+	path = syllabus/Peer-to-Peer-Folder-Poetry
+	url = https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry
+[submodule "syllabus/SFPCDetroit2019-makingSense"]
+	path = syllabus/SFPCDetroit2019-makingSense
+	url = https://github.com/colinwangdesign/SFPCDetroit2019-makingSense/
+[submodule "syllabus/belowandbeyond-detroit-2019"]
+	path = syllabus/belowandbeyond-detroit-2019
+	url = https://github.com/0ld-h3ad/belowandbeyond-detroit-2019
