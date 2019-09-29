@@ -12,15 +12,15 @@ School for Poetic Computation's first offsite session 'Poetic Computation: Detro
 ## 1. Teamwork 
 
 - The Poetic Computation: Detroit was initiated by School for Poetic Computation and Taeyoon Choi as the principle investigator in the fall of 2018. From spring of 2019, a group of four SFPC co-organizers, each responsible for 1. Curriculum (Melanie Hoff), 2. Documentation and Community (Neta Bomani), 3. Production (Taeyoon Choi), and 4. Logistics (Lauren Gardner) realized the program. These roles were lead and shared by the co-organizers 
-- A group of SFPC teachers from New York and San Francisco, and Detroit based teachers designed their syllabus and activities in response to the overarching curriculum. More on [teachers](https://github.com/SFPC/detroit/blob/master/mission-principles.md#3-explore-a-theme-thats-exciting-to-teachers). 
+- A group of SFPC teachers from New York and San Francisco, and Detroit based teachers designed their syllabus and activities in response to the overarching curriculum. More on how we approached and worked with the [teachers](https://github.com/SFPC/detroit/blob/master/mission-principles.md#3-explore-a-theme-thats-exciting-to-teachers). 
 
 ## 2. Curriculum 
 
-- We designed a new curriculum and theme on Unconvering Technology based on two research trips and survey of Detroit residents. The curriculum focuses on providing technical literacy, combining critical theory and practice, rather than creative coding for visual art. More on a [community specific curriculum](https://github.com/SFPC/detroit/blob/master/mission-principles.md#2-develop-a-curriculum-for-a-specific-community).
+- We designed a new curriculum and theme on Unconvering Technology based on two research trips and survey of Detroit residents. The curriculum focuses on providing technical literacy, combining critical theory and practice, rather than creative coding for visual art. More on designing a [community specific curriculum](https://github.com/SFPC/detroit/blob/master/mission-principles.md#2-develop-a-curriculum-for-a-specific-community).
 
 - *Technology is usually made available to us after many layers of abstraction have been imposed. In the process of abstraction, it’s inner workings are obscured and most people are excluded from understanding it. If we can’t understand it, we can’t fix it, take care of it or truly own it. What would it look like to cultivate a more caring and imaginative kind of tech for ourselves and each other?* - [Full description](https://github.com/SFPC/detroit#theme-uncovering-technology)
 
-- We invited Detroit-based teachers and speakers. SFPC teachers lead technical classes covering key computing concepts, function, variable, state based programming in Python, as well as artistic and conceptual inquiries. Integrate critical theory, community technology and code, i.e. Power, in electricity and in politics, undercommons inside of academic institutions and cities, operating systems as a poetic media, peer to peer, decentralized protocols to change our relationship with technology. The organizers and teachers developed original syllabus, slides and tutorials which are available on the [session repository](https://github.com/SFPC/detroit) on GitHub. 
+- We invited Detroit-based teachers and speakers. SFPC teachers lead technical classes covering key computing concepts, function, variable, state based programming in Python, as well as artistic and conceptual inquiries. Integrate critical theory, community technology and code, i.e. Power, in electricity and in politics, undercommons inside of academic institutions and cities, operating systems as a poetic media, peer to peer, decentralized protocols to change our relationship with technology. The organizers and teachers developed original syllabus, slides and tutorials which are available via the [session repository](https://github.com/SFPC/detroit) on GitHub. 
  
 - We focused on providing equitable access to tools, donate all hardware and software. For example, teachers set up Raspberry Pis customized with a static IP and Dat: [Tutorial](https://github.com/SFPC/detroit/blob/master/pi-setup.md) and [more](https://github.com/SFPC/detroit/blob/master/mission-principles.md#4-provide-equitable-access-to-tools-and-knowledge) on providing equitable access to tools and knowledge. 
  
@@ -36,12 +36,11 @@ School for Poetic Computation's first offsite session 'Poetic Computation: Detro
 
 - We lead an initiative for class notes, hired professional photos and videographers, recorded audio files and made them available for the students and researchers 
 - Website [sfpc.io/detroit](https://sfpc.io/detroit/) 
-Blog posting
 - [Research trip 1](https://medium.com/sfpc/poetic-computation-detroit-b748b765afbb) 
 - [Research trip 2](https://medium.com/sfpc/poetic-computation-detroit-2-f57835a867b2) 
 - [Meet the students](https://medium.com/sfpc/meet-the-students-and-teachers-of-poetic-computation-detroit-2019-ab11c7e9307b) 
 - [Tawana and Nabil](https://medium.com/sfpc/poetic-computation-detroit-day-1-6da9406de358)
-- [Ann and Melanie](https://cdn-images-1.medium.com/fit/t/1440/432/1*H_Xzn1oIvP-htMlgkqePWg.jpeg) 
+- [Ann and Melanie](https://medium.com/sfpc/poetic-computation-day-2-530da4680eb1) 
 - [Final reflection by Taeyoon](
 https://medium.com/@tchoi8/murmuration-7d5a2e1d8c6b) 
 - [Student feedback](https://github.com/SFPC/detroit/blob/master/feedback.md) 
