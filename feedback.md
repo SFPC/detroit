@@ -38,7 +38,7 @@ So many - hard to narrow it down. The conversations prompted by American Artist'
 
 The curriculum was perfect.  However, I would have enjoyed more hands-on meal preparation.  The kitchen was small, but I feel that we could have rotated teams of 3-4 each day preparing a meal with pre-purchased locally sourced ingredients.  Also, powerful yet quiet fans for those days over 85 degrees.  And coffee!
 
-# What is the most memorable lesson you learned from the program?
+## What is the most memorable lesson you learned from the program?
 
 When the screen lit up with my first code ever, "HELLO WORLD!"
 
